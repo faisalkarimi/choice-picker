@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/choice-picker/static/css/main.7e034979.chunk.css",
+    "main.js": "/choice-picker/static/js/main.7df9477d.chunk.js",
+    "main.js.map": "/choice-picker/static/js/main.7df9477d.chunk.js.map",
+    "runtime-main.js": "/choice-picker/static/js/runtime-main.66397da2.js",
+    "runtime-main.js.map": "/choice-picker/static/js/runtime-main.66397da2.js.map",
+    "static/js/2.52c285e5.chunk.js": "/choice-picker/static/js/2.52c285e5.chunk.js",
+    "static/js/2.52c285e5.chunk.js.map": "/choice-picker/static/js/2.52c285e5.chunk.js.map",
+    "static/js/3.cc4036a4.chunk.js": "/choice-picker/static/js/3.cc4036a4.chunk.js",
+    "static/js/3.cc4036a4.chunk.js.map": "/choice-picker/static/js/3.cc4036a4.chunk.js.map",
+    "index.html": "/choice-picker/index.html",
+    "static/css/main.7e034979.chunk.css.map": "/choice-picker/static/css/main.7e034979.chunk.css.map",
+    "static/js/2.52c285e5.chunk.js.LICENSE.txt": "/choice-picker/static/js/2.52c285e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66397da2.js",
+    "static/js/2.52c285e5.chunk.js",
+    "static/css/main.7e034979.chunk.css",
+    "static/js/main.7df9477d.chunk.js"
+  ]
+}
